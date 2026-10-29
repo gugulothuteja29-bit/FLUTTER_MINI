@@ -1,0 +1,9 @@
+{
+  "name": "TaskFlow College Placement Tracker",
+  "short_name": "TaskFlow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F8FC",
+  "theme_color": "#4F46E5",
+  "description": "College placement preparation task manager"
+}
